@@ -1,1 +1,2 @@
-# ugeopgave-6-polymorphism-and-interfaces
+# Emil Marinovic
+# emma1001@stud.ek.dk
